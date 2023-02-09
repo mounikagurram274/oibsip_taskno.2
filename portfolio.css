@@ -1,0 +1,625 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.anu-logo-image {
+    height: 50px;
+    width: 100px;
+}
+
+.name-about {
+    color: #4b6cc1;
+
+}
+
+.custom-button-about {
+    color: white;
+    background-color: #4b6cc1;
+    font-size: 18px;
+    border-radius: 10px;
+    height: 40px;
+    width: 140px;
+    border-width: 0px;
+}
+
+.paragraph-about {
+    color: #9aa5b1;
+    font-size: 24px;
+    font-family: "roboto";
+}
+
+.main-heading-about {
+    color: #ffffff;
+    font-size: 45px;
+    font-family: "roboto";
+    font-weight: 300;
+
+}
+
+.jenny-about {
+    height: 160px;
+    width: 160px;
+    border-radius: 100px;
+    margin-right: 10px;
+}
+
+#navbar-item-about {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+    border-style: solid;
+    border-color: #4b6cc1;
+    border-width: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+
+}
+
+.bg-section-container-about {
+    background-color: #191a1d;
+    height: 100vh;
+}
+
+#nav-item1-about {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+#nav-item2-about {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+#nav-item3-about {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+#nav-item4-about {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+#nav-item5-about {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+#nav-item6-about {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+#nav-item7-about {
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.paragraph {
+    color: #cced00;
+    font-size: 28px;
+    font-family: "roboto";
+    font-weight: 600;
+}
+
+.heading {
+    color: white;
+    font-size: 45px;
+    font-family: "roboto";
+    font-weight: 600;
+}
+
+.skills-section {
+    background-color: #1f2933;
+
+}
+
+.about-me-section {
+    background-color: #323f4b;
+}
+
+.about-me-image {
+    height: 280px;
+    width: 280px;
+    border-radius: 190px;
+}
+
+.second-me-image {
+    height: 160px;
+    width: 160px;
+    border-radius: 100px;
+    margin-right: 10px;
+}
+
+.skills-section {
+    background-color: #1f2933;
+}
+
+.skill-paragraph {
+    color: #cced00;
+    font-size: 20px;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+
+.skill-heading2 {
+    color: white;
+    font-size: 22px;
+    font-family: "roboto";
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.skills-section {
+    background-color: #1f2933;
+}
+
+
+.skill-card-container {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.skill-image {
+    height: 64px;
+    width: 64px;
+
+}
+
+/***********My projects page****************/
+.my-image1 {
+    height: 180px;
+    width: 300px;
+}
+
+.my-projects-container {
+    text-align: center;
+}
+
+.my-main-heading {
+    color: #183b56;
+    font-size: 25px;
+    font-family: "bree serif";
+    font-weight: 500;
+}
+
+.project-description {
+    font-family: "bree serif";
+    color: #6167c;
+    font-size: 14px;
+}
+
+.my-image2 {
+    height: 130px;
+    width: 230px;
+    margin: 5px;
+}
+
+/***********food order page****************/
+.food-order-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.food-card {
+    background-color: #f6c56e;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 20px;
+
+}
+
+.food-main-heading {
+    font-family: "Bree Serif";
+    font-size: 26px;
+    color: #323f4b;
+
+}
+
+.food-card-description {
+    color: #323f4b;
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.button-food {
+    background-color: #ffffff;
+    border-width: 0px;
+    padding: 8px;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    font-family: "roboto";
+    color: #323f4b;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/*****advanced technologies***********/
+.adv-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.advanced-card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 10px;
+
+}
+
+.advanced-card-heading {
+    font-family: "Bree Serif";
+    font-size: 26px;
+    color: #5752ab;
+}
+
+.adv-paragraph {
+    font-family: "roboto";
+    color: #323f4b;
+    padding: 10px;
+    margin: 0px;
+}
+
+.button-advanced {
+    height: 38px;
+    width: 139px;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 9px;
+    font-size: 16px;
+    font-family: "roboto";
+
+}
+
+.button-indigo-advanced {
+    background-color: #5752ab;
+    color: #ffffff;
+    border-width: 0px;
+}
+
+
+
+.button-white-advanced {
+    color: #171f46;
+    background-color: #ffffff;
+    border-color: #d7dfe9;
+    border-width: 1px;
+    border-style: solid;
+}
+
+/************ news page*************/
+.news-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.news-card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 15px;
+    height: 70px;
+}
+
+.news-card-heading1 {
+    color: #7b8794;
+    font-size: 15px;
+    margin: 8px;
+    font-family: "roboto";
+    font-weight: 800;
+}
+
+.news-card-heading2 {
+    color: #323f4b;
+    font-size: 18px;
+    margin: 8px;
+    font-family: "roboto";
+    font-weight: 600;
+
+}
+
+.news-card-description {
+    color: #7b8794;
+    font-size: 13px;
+    margin: 10px;
+    font-family: "roboto";
+    width: 300px;
+    font-weight: 500;
+}
+
+.button-news {
+    background-color: #323f4b;
+    color: #ffffff;
+    border-radius: 10px;
+    height: 40px;
+    width: 130px;
+    border-width: 0px;
+    font-family: "roboto";
+    font-size: 13px;
+
+}
+
+/****diwali page**********/
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 35vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-size: 40px;
+    font-family: "caveat";
+    width: 200px;
+    padding: 18px;
+
+}
+
+.diwali-bottom-section {
+    background-color: #e6f6ff;
+
+
+
+
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+
+}
+
+.diwali-card-image {
+    height: 70px;
+    width: 50px;
+}
+
+.diwali-card-name {
+    font-family: "roboto";
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    width: 130px;
+
+}
+
+.diwali-card-price {
+    font-family: "roboto";
+    font-weight: bold;
+    padding: 10px;
+}
+
+.button-diwali {
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+}
+
+
+.arrow-text {
+    color: #cced00;
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.arrow-text-2 {
+    color: #cced00;
+    font-family: "roboto";
+}
+
+.card-container {
+    background-color: #323f4b;
+    border-radius: 13px;
+}
+
+.text-container {
+    padding: 14px;
+}
+
+.projects-section {
+    background-color: #3e4c59;
+}
+
+.paragraph {
+    color: #cced00;
+    font-family: "roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.heading {
+    color: white;
+    font-family: "roboto";
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.heading2 {
+    color: white;
+    font-family: "roboto";
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.paragraph2 {
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.paragraph3 {
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 25px;
+    font-weight: 500;
+}
+
+/***********service section **********/
+.sevice-paragraph2 {
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 26px;
+    font-weight: 500;
+}
+
+.service-heading2 {
+    color: white;
+    font-family: "roboto";
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.service-card-container {
+    background-color: #323f4b;
+    padding: 22px;
+    margin: 10px;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+.service-image {
+    width: 60px;
+    height: 60px;
+}
+
+.service-section {
+    background-color: #52606d;
+
+}
+
+.service-paragraph {
+    color: #cced00;
+    font-family: "roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.service-heading {
+    color: white;
+    font-family: "roboto";
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.work-done-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+
+}
+
+.work-heading {
+    color: white;
+    font-size: 36px;
+    font-family: "roboto";
+    font-weight: 900;
+}
+
+.work-paragraph {
+    color: white;
+    font-size: 16px;
+    font-family: "roboto";
+}
+
+.work-hr-line {
+    background-color: white;
+    width: 60px;
+}
+
+.testi-monals-section {
+    background-color: #1f2933;
+}
+
+.testi-heading2 {
+    color: white;
+    font-family: "roboto";
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.testi-paragraph2 {
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.testi-paragraph {
+    color: #cced00;
+    font-family: "roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.testi-heading {
+    color: white;
+    font-family: "roboto";
+    font-size: 42px;
+    font-weight: 700;
+}
+
+
+
+.testi-card-container {
+    background-color: #323f4b;
+    border-radius: 8px;
+
+}
+
+.testi-image1 {
+    width: 140px;
+    height: 140px;
+    border-radius: 70px;
+
+}
+
+/*******footer-section**************/
+.footer-section {
+    background-color: #0d2436;
+
+}
+
+.footer-section-image {
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+}
+
+.footer-section-copyright-container {
+    text-align: center;
+    color: #ffffff;
+    background-color: #001c32;
+    padding: 10px;
+}
+
+.footer-section-sub-heading {
+    color: #cced00;
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.footer-section-text {
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 14px;
+}
+
+.icon {
+    font-size: 18px;
+    color: #5a7184;
+
+}
