@@ -171,7 +171,7 @@
 /***********My projects page****************/
 .my-image1 {
     height: 180px;
-    width: 300px;
+    width: 290px;
 }
 
 .my-projects-container {
@@ -471,14 +471,14 @@
 /***********service section **********/
 .sevice-paragraph2 {
     color: #9aa5b1;
-    font-family: "roboto";
+    font-family: "Roboto";
     font-size: 26px;
     font-weight: 500;
 }
 
 .service-heading2 {
     color: white;
-    font-family: "roboto";
+    font-family: "Roboto";
     font-size: 35px;
     font-weight: 700;
 }
@@ -503,14 +503,14 @@
 
 .service-paragraph {
     color: #cced00;
-    font-family: "roboto";
+    font-family: "Roboto";
     font-size: 28px;
     font-weight: 700;
 }
 
 .service-heading {
     color: white;
-    font-family: "roboto";
+    font-family: "Roboto";
     font-size: 45px;
     font-weight: 700;
 }
@@ -524,14 +524,14 @@
 .work-heading {
     color: white;
     font-size: 36px;
-    font-family: "roboto";
+    font-family: "Roboto";
     font-weight: 900;
 }
 
 .work-paragraph {
     color: white;
     font-size: 16px;
-    font-family: "roboto";
+    font-family: "Roboto";
 }
 
 .work-hr-line {
@@ -545,28 +545,28 @@
 
 .testi-heading2 {
     color: white;
-    font-family: "roboto";
+    font-family: "Roboto";
     font-size: 25px;
     font-weight: 500;
 }
 
 .testi-paragraph2 {
     color: #9aa5b1;
-    font-family: "roboto";
+    font-family: "Roboto";
     font-size: 21px;
     font-weight: 500;
 }
 
 .testi-paragraph {
     color: #cced00;
-    font-family: "roboto";
+    font-family: "Roboto";
     font-size: 28px;
     font-weight: 700;
 }
 
 .testi-heading {
     color: white;
-    font-family: "roboto";
+    font-family: "Roboto";
     font-size: 42px;
     font-weight: 700;
 }
@@ -607,7 +607,7 @@
 
 .footer-section-sub-heading {
     color: #cced00;
-    font-family: "roboto";
+    font-family: "Roboto";
     font-size: 20px;
     font-weight: bold;
 }
@@ -619,7 +619,7 @@
 }
 
 .icon {
-    font-size: 18px;
+    font-size: 17px;
     color: #5a7184;
 
 }
